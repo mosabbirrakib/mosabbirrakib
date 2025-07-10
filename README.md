@@ -28,7 +28,7 @@
 
 # I am a Software Developer from Bangladesh.
 
-- I’m currently working as software developer at <b><a href="https://startise.com/">Startise<a/></b>
+- I’m currently working as software developer at <b><a href="https://startise.com/" target="_blank">Startise<a/></b>
 - I’m currently working on Laravel and Vue JS
 - - -
 
