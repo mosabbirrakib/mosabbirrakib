@@ -13,6 +13,9 @@
   <a href="https://twitter.com/AlMosabbir2" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+  <a href="https://almosabbir.xyz" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Badge"/>
+  </a>
 </div>
 
 <h1 align="center">
