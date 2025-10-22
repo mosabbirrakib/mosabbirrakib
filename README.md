@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <h3>Follow Me 👎</h3>
+  <h3>🤝 Let's Connect</h3>
 </div>
 
 
@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
   <a href="https://twitter.com/AlMosabbir2" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/X-blue?style=for-the-badge&logo=x&logoColor=white" alt="X Badge"/>
   </a>
   <a href="https://almosabbir.xyz" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Badge"/>
@@ -29,11 +29,30 @@
 
 [//]: # (</div>)
 
-# I am a Software Developer from Bangladesh.
+### 👋 About Me
+<div>
+  I’m Al-Mosabbir Rakib, a passionate Software Developer from Bangladesh with a strong focus on building scalable, high-performance web applications. I enjoy crafting elegant, efficient solutions that deliver real value to users — from concept to deployment. Currently, I’m working at Startise, where I develop and maintain modern full-stack applications using Laravel and Vue.js.
+</div>
 
-- I’m currently working as software developer at <b><a href="https://startise.com/" target="_blank">Startise<a/></b>
-- I’m currently working on Laravel and Vue JS
-- - -
+### 💻 What I Do
+
+🧠 Full-stack development using Laravel (PHP) and Vue 3 (JavaScript) 
+
+⚙️ Building Single Page Applications (SPA) with Inertia.js and RESTful APIs
+
+🧩 Designing modular, reusable, and scalable architectures
+
+☁️ Cloud infrastructure management — skilled in configuring, deploying, and managing servers across AWS, GCP, DigitalOcean, Hostinger, Hetzner, and Vultr, including automation, backups, and performance optimization
+
+🐧 Working with Linux servers (Ubuntu + Nginx, Openlitespeed) for deployment and CI/CD
+
+🔐 Implementing authentication, authorization, and role-based access control
+
+📦 Integrating third-party APIs and services (e.g., Slack, Google, Facebook, Patchstack, Hostinger, pCloud)
+
+💾 Managing MySQL databases efficiently with Eloquent ORM and query optimization
+
+🎨 Creating clean, responsive, and user-friendly UI with Tailwind CSS
 
 ### Languages and Tools
 <div>
@@ -41,6 +60,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" title="Laravel" alt="Laravel" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" title="Vue JS" alt="Vue JS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" title="WordPress" alt="WordPress" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="Nginx" alt="Nginx" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" alt="Javascript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain-wordmark.svg" title="jQuery" alt="jQuery" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="mySql" alt="mySql" width="40" height="40"/>&nbsp;
