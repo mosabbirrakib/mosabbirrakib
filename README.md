@@ -37,7 +37,7 @@
   deliver real value — from concept to deployment.
 
   - 🔭 Currently working at **[Startise](https://startise.com/)**, building modern full-stack apps with **Laravel** and **Vue.js**
-  - 🚀 Creator of **[OnBordly](https://onbordly.xyz/)** — a smarter way to onboard
+  - 🚀 Founder of **[OnBordly](https://onbordly.xyz/)** — a smarter way to onboard
   - 🟢 Open-source contributor to **[Laravel Framework](https://github.com/laravel/framework)** and **[Laravel AI](https://github.com/laravel/ai)**
   - 💬 Ask me about **Laravel, Vue 3, Inertia.js, server provisioning, or system design**
   - 🌐 Portfolio → **[almosabbir.xyz](https://almosabbir.xyz)**
