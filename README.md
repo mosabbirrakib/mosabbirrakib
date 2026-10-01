@@ -40,7 +40,7 @@
   - 🚀 Founder of **[OnBordly](https://onbordly.xyz/)** — a smarter way to onboard
   - 🟢 Open-source contributor to **[Laravel Framework](https://github.com/laravel/framework)** and **[Laravel AI](https://github.com/laravel/ai)**
   - 💬 Ask me about **Laravel, Vue 3, Inertia.js, server provisioning, or system design**
-  - 🌐 Portfolio → **[almosabbir.xyz](https://almosabbirrakib.xyz)**
+  - 🌐 Portfolio → **[almosabbirrakib.xyz](https://almosabbirrakib.xyz)**
 
   ---
 
